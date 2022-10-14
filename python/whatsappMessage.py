@@ -1,3 +1,3 @@
-import pywhatkit
+import pywhatkit;
 
-pywhatkit.sendwhatmsg_instantly('+34692143617','Prueba de mensaje en python')
+pywhatkit.sendwhatmsg_instantly('+34625331735','Prueba de mensaje 2 envíado con python',0,bool("true"),3)
